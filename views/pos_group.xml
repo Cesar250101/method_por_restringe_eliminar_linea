@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<odoo>
+    <data>
+        <record id="group_pos_admin_line_remove" model="res.groups">
+            <field name="name">Pos Admin</field>
+        </record>
+
+    </data>
+</odoo>
